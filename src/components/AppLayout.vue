@@ -74,7 +74,7 @@ export default {
   display: flex;
   background-color: blue;
   color:#fff;
-   height: 100vh;
+   height: 730px;
    margin: auto;
 
 }
